@@ -1,6 +1,8 @@
 # IBM-Project-50950-1660935130
 Smart Fashion Recommender Application
 
+DEPLOYMENT LINK https://youtu.be/i_QiSs71XTg
+
 DOMAIN NAME : CLOUD APPLICATION DEVELOPMENT
 
 TEAM ID : PNT2022TMID43819
